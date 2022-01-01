@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Lei He's website # Website name
-baseurl: 'https://example.com/' # Website URL
+baseurl: 'https://heleidsn.github.io/' # Website URL
 copyright: 'Copyright © 2022 Lei He. All Rights Reserved.' # Footer text, e.g. '© {year} Me'
 
 ############################
