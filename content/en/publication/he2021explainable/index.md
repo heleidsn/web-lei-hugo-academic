@@ -38,7 +38,7 @@ abstract: Autonomous navigation in unknown environment is still a hard problem f
 tags: [Reinforcement Learning, Explainable]
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
@@ -57,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'UAV autonomous navigation'
   focal_point: ""
   preview_only: false
 
